@@ -3,6 +3,6 @@ Feature: Test F1
 
   Feature1
 
-  @ORPHAN
+  @TA-1 @WIP
   Scenario: User have feature 1
     Given feature 0
