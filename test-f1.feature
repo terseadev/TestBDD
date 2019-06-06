@@ -7,7 +7,7 @@ Feature: Test F1
   Scenario: User have feature 1
     Given feature 0
 
-  @ORPHAN @MANUAL
+  @ORPHAN
   Scenario: User can send mails
     Given user is logged
     when user send mail
