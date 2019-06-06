@@ -3,7 +3,7 @@ Feature: Test F1
 
   Feature1
 
-  @TA-1 @WIP
+  @TA-1 @TA-3 @OPEN
   Scenario: User have feature 1
     Given feature 0
 
